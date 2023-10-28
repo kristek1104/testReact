@@ -1,7 +1,7 @@
 {
   "name": "react-site",
   "version": "0.1.0",
-  "homepage": "",
+  "homepage": "https://kristek1104.github.io/testReact/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
