@@ -13,6 +13,7 @@ export default class Blog extends Component {
                   width={150}
                   height={150}
                   src="https://static.uwcdn.net//yugopolis-cache/media/cache/news/data/img/3fcc6843212cfe56959dd387eeab1d2b/209452.jpg"
+                  alt="img"
                 />
               </div>
               <div className="media-body m-3">
@@ -32,6 +33,7 @@ export default class Blog extends Component {
                   width={150}
                   height={150}
                   src="https://facts.museum/img/facts/26.jpg"
+                  alt="img"
                 />
               </div>
               <div className="media-body m-3">
@@ -48,6 +50,7 @@ export default class Blog extends Component {
                   width={150}
                   height={150}
                   src="https://cdnn21.img.ria.ru/images/146095/02/1460950266_491:0:3627:3136_1920x0_80_0_0_b2fa213b2de09667975ba6598ae34edb.jpg"
+                  alt="img"
                 />
               </div>
               <div className="media-body m-3">
@@ -70,6 +73,7 @@ export default class Blog extends Component {
                   width={150}
                   height={150}
                   src="https://img.freepik.com/free-photo/beautiful-monkeys-outdoors_23-2150754496.jpg"
+                  alt="img"
                 />
               </div>
               <div className="media-body m-3">

@@ -30,6 +30,7 @@ export default class About extends Component {
                     width="100%"
                     height="auto"
                     src="https://наука.рф/upload/iblock/b09/qik3kd3sg7to2qr6u8adjpnh057redcd/01%20-%20%D0%9A%D0%B0%D0%BA%20%D0%BE%D0%B1%D0%B5%D0%B7%D1%8C%D1%8F%D0%BD%D1%8B%20%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%D1%8E%D1%82%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D1%83.png"
+                    alt="first"
                   />
                   <p>
                     Monkeys are animals that are closely related to humans. Both
@@ -55,6 +56,7 @@ export default class About extends Component {
                     width="100%"
                     height="100%"
                     src="https://icdn.lenta.ru/images/2023/07/03/11/20230703115503577/wide_4_3_284d47f60850dc2b0398cea5ccd6bd0b.jpg"
+                    alt="second"
                   />
                   <p>
                     Be sure to visit the monkeys that help scientists at the
@@ -69,6 +71,7 @@ export default class About extends Component {
                     width="100%"
                     height="auto"
                     src="https://images.techinsider.ru/upload/img_cache/79c/79c6c6387118ac469e957e001e1da716_ce_2400x1600x0x0.jpg"
+                    alt="third"
                   />
                   <p>
                     Ars simia naturae ("Art is nature's monkey") The Monkey is
@@ -100,6 +103,7 @@ export default class About extends Component {
                     width="100%"
                     height="auto"
                     src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Macaca-fascicularis_flk18447014.jpg"
+                    alt="fourth"
                   />
                   <p>
                     Monkeys / Averyanov A. O. // Nikolai Kuzansky - Ocean

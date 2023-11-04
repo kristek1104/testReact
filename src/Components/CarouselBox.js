@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import Carousel from "react-bootstrap/Carousel";
-import monkey_first from "../asserts/monkey_first.jpg";
-import monkey_second from "../asserts/monkey_second.jpg";
-import monkey_third from "../asserts/monkey_third.jpg";
+import monkey_first from "./monkey_first.jpg";
+import monkey_second from "./monkey_second.jpg";
+import monkey_third from "./monkey_third.jpg";
 
 export default class CarouselBox extends Component {
   render() {
