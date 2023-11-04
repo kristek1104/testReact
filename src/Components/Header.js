@@ -8,7 +8,7 @@ import {
   Navbar,
 } from "react-bootstrap";
 import logo from "./icon4.png";
-import { Route, BrowserRouter as Router, Routes} from "react-router-dom";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 
 import Home from "../Pages/Home";
 import About from "../Pages/About";
@@ -57,7 +57,7 @@ export default class Header extends Component {
           </Container>
         </Navbar>
 
-        <Router>
+        <Router basename="/testReact">
           <Routes>
             <Route exact path="/" element={<Home />} />
             <Route exact path="/about" element={<About />} />
