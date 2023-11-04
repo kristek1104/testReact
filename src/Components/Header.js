@@ -27,7 +27,7 @@ export default class Header extends Component {
           variant="dark"
         >
           <Container>
-            <Navbar.Brand href="/">
+            <Navbar.Brand href="/testReact">
               <img
                 src={logo}
                 height={30}
